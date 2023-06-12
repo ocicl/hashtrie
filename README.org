@@ -1,0 +1,10 @@
+* hashtrie
+
+A Hash Trie implementation for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/DanielKeogh/hashtrie.git   |
+| commit  | {"messa  |
+| systems | hashtrie |
+|---------+-------------------------------------------|
+
