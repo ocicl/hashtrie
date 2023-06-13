@@ -4,7 +4,7 @@ A Hash Trie implementation for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/DanielKeogh/hashtrie.git   |
-| commit  | {"messa  |
+| commit  | c39e81f  |
 | systems | hashtrie |
 |---------+-------------------------------------------|
 
