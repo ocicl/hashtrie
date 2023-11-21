@@ -2,9 +2,8 @@
 
 A Hash Trie implementation for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/DanielKeogh/hashtrie.git   |
-| commit  | c39e81f  |
-| systems | hashtrie |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/DanielKeogh/hashtrie.git |
+| commit  | 81b967b                                         |
+| systems | hashtrie                                        |
+|---------+-------------------------------------------------|
